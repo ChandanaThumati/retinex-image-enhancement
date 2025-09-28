@@ -1,0 +1,10 @@
+Subject: [Project Proposal] Retinex-Inspired Image Enhancement (SSR/MSRCR) + CLAHE Baseline
+
+Hi everyone,
+For my project, I’m implementing a lightweight image enhancement pipeline inspired by Retinex (Jobson et al., 1997). I will compare:
+(1) CLAHE baseline (LAB/L channel), and
+(2) Retinex methods: Single-Scale Retinex (SSR) and Multi-Scale Retinex with Color Restoration (MSRCR).
+
+Goal: Improve low-light/low-contrast photos while preserving natural colors. I’ll report strengths/weaknesses on a small, diverse image set and share parameters that worked best. Working solo.
+
+– <Your Name>
